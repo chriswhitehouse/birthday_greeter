@@ -8,7 +8,7 @@ An opportunity to build a small web app unguided. Building understanding an of w
 Working but needs refactoring and styling.
 
 ## Screenshots
-Include logo/demo screenshot etc.
+![Home screen](https://github.com/chriswhitehouse/birthday_greeter/blob/main/Screenshot%202020-12-11%20at%2014.00.10.png)
 
 ## Tech/framework used
 Ruby, Sinatra, & Rspec with Capybara for feature tests.
