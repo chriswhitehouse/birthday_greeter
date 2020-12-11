@@ -15,7 +15,7 @@ Working but needs refactoring and styling.
 Ruby, Sinatra, & Rspec with Capybara for feature tests.
 
 ## Features
-Test it in your birthday!
+Test it on your birthday!
 
 ## Code Example
 ```ruby
