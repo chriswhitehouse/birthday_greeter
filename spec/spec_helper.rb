@@ -1,4 +1,4 @@
-require File.dirname(__FILE__) + '../app.rb'
+require File.dirname(__FILE__) + '/../app.rb'
 require 'capybara'
 require 'capybara/rspec'
 require 'rspec'
