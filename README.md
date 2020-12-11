@@ -70,9 +70,9 @@ For repo. Run `bundle` in the terminal.
 ## Tests
 
 * When I land on the home page I want to be greeted
-* When I land on the home page I want to be wished happy
-* When I land on the home page I want to be told 65 days to my birthday
-* When I land on the home page I want to told 300 days to my birthday
+* When I land on the home page, and enter my name and birthdate, I want to be wished happy birthday!
+* When I land on the home page, and enter my name and birthdate, I want to be told 65 days to my birthday
+* When I land on the home page, and enter my name and birthdate, I want to told 300 days to my birthday
 
 ## How to use?
 run `rackup` in your terminal from the project folder. Visit the 'localhost:' with port number in your browser.
